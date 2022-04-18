@@ -1,0 +1,22 @@
+{
+    "name": "stefany-repetcki-theme",
+    "displayName": "stefany-repetcki-theme",
+    "description": "Tema dark rosa para todas as pessoas apaixonadas por rosa :)",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "stefanycr",
+    "contributes": {
+        "themes": [
+            {
+                "label": "stefany-repetcki-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stefany-repetcki-theme-color-theme.json"
+            }
+        ]
+    }
+}
