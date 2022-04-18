@@ -2,12 +2,25 @@
     "name": "stefany-repetcki-theme",
     "displayName": "stefany-repetcki-theme",
     "description": "Tema dark rosa para todas as pessoas apaixonadas por rosa :)",
-    "version": "0.0.3",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
+    ],
+    "icon": "icon2.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StefanyRepetcki/vscode-theme-stefany-repetcki"
+    },
+    "keywords": [
+        "pink",
+        "cherry",
+        "rosa",
+        "sweet",
+        "cute",
+        "dark"
     ],
     "publisher": "stefanycr",
     "contributes": {
