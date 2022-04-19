@@ -12,3 +12,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release v0.0.6
 - Initial release v0.0.7 icon logo
 - Initial release v0.0.8 icon logo
+- Initial release v0.0.9 style md

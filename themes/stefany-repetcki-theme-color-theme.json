@@ -9,7 +9,7 @@
 		"editor.lineHighlightBackground": "#0f0d28",
 		"editor.lineHighlightBorder": "#0f0d28",
 		"sideBar.background": "#0f0d28",
-		"editor.foreground": "#26df54",
+		"editor.foreground": "#26df54", // escritas
 		"titleBar.activeBackground": "#272367",
 		"notificationCenterHeader.background": "#272367",
 		"notificationLink.foreground": "#272367",
@@ -424,7 +424,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#272367"
+				"foreground": "#e2e0ff"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#272367"
+				"foreground": "#c1bcff"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#272367"
+				"foreground": "#a8a3f1"
 			}
 		},
 		{
@@ -655,7 +655,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#272367"
+				"foreground": "#a49ef5"
 			}
 		},
 		{
@@ -683,7 +683,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#272367"
+				"foreground": "#a19cea"
 			}
 		}
 	]
